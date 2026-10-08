@@ -1,4 +1,4 @@
-# Productive Failure Experiment
+# MeaningfulFailure-Experiment
 
 A **PsychoPy-based experimental task platform** for research on problem solving and productive failure in engineering education. The application presents cognitive and engineering problem-solving tasks, records behavioral responses and subjective workload, captures webcam video, and broadcasts experimental event markers to support alignment with physiological recordings acquired by external systems.
 
